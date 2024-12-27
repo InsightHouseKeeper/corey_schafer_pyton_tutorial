@@ -1,0 +1,163 @@
+1,10,Setting up a Py  thon Development Environment in Sublime Text,,,,,,,,,,,,
+1,11,Setting up a Py  thon Development Environment in Atom,,,,,,,,,,,,
+1,12,Setting up a Py  thon Development Environment in Eclipse,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+1,1,Python Tutorial  for Beginners 1: Install and Setup for Mac and Windows,,,,,,,,,,,,
+1,2,Python Tutorial  for Beginners 2: Strings - Working with Textual Data,,,,,,,,,,,,
+1,3,Python Tutorial  for Beginners 3: Integers and Floats - Working with Numeric Data,,,,,,,,,,,,
+1,4,"Python Tutorial  for Beginners 4: Lists, Tuples, and Sets",,,,,,,,,,,,
+1,5,Python Tutorial  for Beginners 5: Dictionaries - Working with Key-Value Pairs,,,,,,,,,,,,
+1,6,"Python Tutorial  for Beginners 6: Conditionals and Booleans - If, Else, and Elif Statements",,,,,,,,,,,,
+1,7,Python Tutorial  for Beginners 7: Loops and Iterations - For/While Loops,,,,,,,,,,,,
+1,8,Python Tutorial  for Beginners 8: Functions,,,,,,,,,,,,
+1,9,Python Tutorial  for Beginners 9: Import Modules and Exploring The Standard Library,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+1,13,Python Tutorial  : pi p - An in-depth look at the package management system,,,,,,,,,,,,
+1,14,Python Tutorial  : vi rtualenv and why you should use virtual environments,,,,,,,,,,,,
+1,15,Python Tutorial  : An aconda - Installation and Using Conda,,,,,,,,,,,,
+1,16,"Python Tutorial  : Ho w I Manage Multiple Projects, Virtual Environments, and Environment Variables",,,,,,,,,,,,
+1,17,"Jupyter Noteboo  k Tu torial: Introduction, Setup, and Walkthrough",,,,,,,,,,,,
+1,18,Python Tutorial  : Va riable Scope - Understanding the LEGB rule and global/nonlocal statements,,,,,,,,,,,,
+1,19,Python Tutorial  : Sl icing Lists and Strings,,,,,,,,,,,,
+1,20,Python Tutorial  : Co mprehensions - How they work and why you should be using them,,,,,,,,,,,,
+1,21,"Python Tutorial  : So rting Lists, Tuples, and Objects",,,,,,,,,,,,
+1,22,"Python Tutorial  : St ring Formatting - Advanced Operations for Dicts, Lists, Numbers, and Dates",,,,,,,,,,,,
+1,23,Python Tutorial  : OS Module - Use Underlying Operating System Functionality,,,,,,,,,,,,
+1,24,"Python Tutorial  : Da tetime Module - How to work with Dates, Times, Timedeltas, and Timezones",,,,,,,,,,,,
+1,25,Python Tutorial  : Fi le Objects - Reading and Writing to Files,,,,,,,,,,,,
+1,26,Python Tutorial  : Au tomate Parsing and Renaming of Multiple Files,,,,,,,,,,,,
+1,27,Python Tutorial  : Ge nerate Random Numbers and Data Using the random Module,,,,,,,,,,,,
+1,28,"Python Tutorial  : CS V Module - How to Read, Parse, and Write CSV Files",,,,,,,,,,,,
+1,29,Python Tutorial  : Re al World Example - Parsing Names From a CSV to an HTML List,,,,,,,,,,,,
+1,30,Python Tutorial  : re Module - How to Write and Match Regular Expressions (Regex),,,,,,,,,,,,
+1,31,Python Tutorial  : Us ing Try/Except Blocks for Error Handling,,,,,,,,,,,,
+1,32,"Python Tutorial  : Du ck Typing and Asking Forgiveness, Not Permission (EAFP)",,,,,,,,,,,,
+1,33,Python Tutorial  : Ho w to Set the Path and Switch Between Different Versions/Executables (Windows),,,,,,,,,,,,
+1,34,Python Tutorial  : Ho w to Set the Path and Switch Between Different Versions/Executables (Mac & Linux),,,,,,,,,,,,
+1,35,Python Quick Tip: F-Strings - How to Use Them and Advanced String Formatting,,,,,,,,,,,,
+1,36,Python Tutorial  : Ge nerators - How to use them and the benefits you receive,,,,,,,,,,,,
+1,37,Python Tutorial  : De corators - Dynamically Alter The Functionality Of Your Functions,,,,,,,,,,,,
+1,38,Python Tutorial  : De corators With Arguments,,,,,,,,,,,,
+1,39,Python Tutorial  : Na medtuple - When and why should you use namedtuples?,,,,,,,,,,,,
+1,46,Python Tutorial  : We b Scraping with BeautifulSoup and Requests,,,,,,,,,,,,
+1,47,Python Tutorial  : Wo rking with JSON Data using the json Module,,,,,,,,,,,,
+1,48,"Python Tutorial  : Ca lculate Number of Days, Weeks, or Months to Reach Specific Goals",,,,,,,,,,,,
+1,49,Python Tutorial  : Co ntext Managers - Efficiently Managing Resources,,,,,,,,,,,,
+1,50,Python Tutorial  : st r() vs repr(),,,,,,,,,,,,
+1,51,"Python SQLite T  utor ial: Complete Overview - Creating a Database, Table, and Running Queries",,,,,,,,,,,,
+1,52,"Python Tutorial  : Lo gging Basics - Logging to Files, Setting Levels, and Formatting",,,,,,,,,,,,
+1,53,"Python Tutorial  : Lo gging Advanced - Loggers, Handlers, and Formatters",,,,,,,,,,,,
+1,54,Python Quick Ti  p: H iding Passwords and Secret Keys in Environment Variables (Mac & Linux),,,,,,,,,,,,
+1,55,Python Quick Ti  p: H iding Passwords and Secret Keys in Environment Variables (Windows),,,,,,,,,,,,
+1,56,Python Tutorial  : if __name__ == '__main__',,,,,,,,,,,,
+1,57,Python Tutorial  : Un it Testing Your Code with the unittest Module,,,,,,,,,,,,
+1,58,Python Tutorial  : Pi penv - Easily Manage Packages and Virtual Environments,,,,,,,,,,,,
+1,59,Preparing for a  Pyt hon Interview: 10 Things You Should Know,,,,,,,,,,,,
+1,60,Python Tutorial  : El se Clauses on Loops,,,,,,,,,,,,
+1,61,Python Tutorial  : Im age Manipulation with Pillow,,,,,,,,,,,,
+1,62,Python Tutorial  : Cu stom Sublime Text Build Systems,,,,,,,,,,,,
+1,63,Python: Ex Mach  ina Easter Egg - Hidden Message within the Code,,,,,,,,,,,,
+1,76,Python Tutorial  : Se ts - Set Methods and Operations to Solve Common Problems,,,,,,,,,,,,
+1,90,Python Tutorial  : It erators and Iterables - What Are They and How Do They Work?,,,,,,,,,,,,
+1,92,Python Tutorial  : It ertools Module - Iterator Functions for Efficient Looping,,,,,,,,,,,,
+1,101,"Python Tutorial  : Wr ite a Script to Monitor a Website, Send Alert Emails, and Reboot Servers",,,,,,,,,,,,
+1,102,Python Tutorial  : We b Scraping with Requests-HTML,,,,,,,,,,,,
+1,105,Python Tutorial  : VE NV (Mac & Linux) - How to Use Virtual Environments with the Built-In venv Module,,,,,,,,,,,,
+1,106,Python Tutorial  : VE NV (Windows) - How to Use Virtual Environments with the Built-In venv Module,,,,,,,,,,,,
+1,122,Python Tutorial  : Ca lling External Commands Using the Subprocess Module,,,,,,,,,,,,
+1,123,"Python Quick Ti  p: T he Difference Between ""=="" and ""is"" (Equality vs Identity)",,,,,,,,,,,,
+1,127,Python Tutorial  : Zi p Files - Creating and Extracting Zip Archives,,,,,,,,,,,,
+1,139,Python Tutorial  : Re al World Example - Using Patreon API and Pillow to Automate Image Creation,,,,,,,,,,,,
+1,144,Python Tutorial  : Si mulate the Powerball Lottery Using Python,,,,,,,,,,,,
+1,146,Python Tutorial  : Se curely Manage Passwords and API Keys with DotEnv,,,,,,,,,,,,
+1,149,Python Tutorial  : Pa thlib - The Modern Way to Handle File Paths,,,,,,,,,,,,
+1,109,Python Tutorial  : Cl arifying the Issues with Mutable Default Arguments,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+1,40,Python OOP Tuto  rial 1: Classes and Instances,,,,,,,,,,,,
+1,41,Python OOP Tuto  rial 2: Class Variables,,,,,,,,,,,,
+1,42,Python OOP Tuto  rial 3: classmethods and staticmethods,,,,,,,,,,,,
+1,43,Python OOP Tuto  rial 4: Inheritance - Creating Subclasses,,,,,,,,,,,,
+1,44,Python OOP Tuto  rial 5: Special (Magic/Dunder) Methods,,,,,,,,,,,,
+1,45,"Python OOP Tuto  rial 6: Property Decorators - Getters, Setters, and Deleters",,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+1,64,Python Flask Tu  tori al: Full-Featured Web App Part 1 - Getting Started,,,,,,,,,,,,
+1,65,Python Flask Tu  tori al: Full-Featured Web App Part 2 - Templates,,,,,,,,,,,,
+1,66,Python Flask Tu  tori al: Full-Featured Web App Part 3 - Forms and User Input,,,,,,,,,,,,
+1,67,Python Flask Tu  tori al: Full-Featured Web App Part 4 - Database with Flask-SQLAlchemy,,,,,,,,,,,,
+1,68,Python Flask Tu  tori al: Full-Featured Web App Part 5 - Package Structure,,,,,,,,,,,,
+1,69,Python Flask Tu  tori al: Full-Featured Web App Part 6 - User Authentication,,,,,,,,,,,,
+1,70,Python Flask Tu  tori al: Full-Featured Web App Part 7 - User Account and Profile Picture,,,,,,,,,,,,
+1,71,"Python Flask Tu  tori al: Full-Featured Web App Part 8 - Create, Update, and Delete Posts",,,,,,,,,,,,
+1,72,Python Flask Tu  tori al: Full-Featured Web App Part 9 - Pagination,,,,,,,,,,,,
+1,73,Python Flask Tu  tori al: Full-Featured Web App Part 10 - Email and Password Reset,,,,,,,,,,,,
+1,74,Python Flask Tu  tori al: Full-Featured Web App Part 11 - Blueprints and Configuration,,,,,,,,,,,,
+1,75,Python Flask Tu  tori al: Full-Featured Web App Part 12 - Custom Error Pages,,,,,,,,,,,,
+1,93,Python Flask Tu  tori al: Deploying Your Application (Option #1) - Deploy to a Linux Server,,,,,,,,,,,,
+1,94,Python Flask Tu  tori al: How to Use a Custom Domain Name for Our Application,,,,,,,,,,,,
+1,96,Python Flask Tu  tori al: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+1,77,Python Django T  utor ial: Full-Featured Web App Part 1 - Getting Started,,,,,,,,,*,* 77. Python Django T  utor ial: Full-Featured Web App Part 1 - Getting Started,##,## 77. Python Django T  utor ial: Full-Featured Web App Part 1 - Getting Started
+1,78,Python Django T  utor ial: Full-Featured Web App Part 2 - Applications and Routes,,,,,,,,,*,* 78. Python Django T  utor ial: Full-Featured Web App Part 2 - Applications and Routes,##,## 78. Python Django T  utor ial: Full-Featured Web App Part 2 - Applications and Routes
+1,79,Python Django T  utor ial: Full-Featured Web App Part 3 - Templates,,,,,,,,,*,* 79. Python Django T  utor ial: Full-Featured Web App Part 3 - Templates,##,## 79. Python Django T  utor ial: Full-Featured Web App Part 3 - Templates
+1,80,Python Django T  utor ial: Full-Featured Web App Part 4 - Admin Page,,,,,,,,,*,* 80. Python Django T  utor ial: Full-Featured Web App Part 4 - Admin Page,##,## 80. Python Django T  utor ial: Full-Featured Web App Part 4 - Admin Page
+1,81,Python Django T  utor ial: Full-Featured Web App Part 5 - Database and Migrations,,,,,,,,,*,* 81. Python Django T  utor ial: Full-Featured Web App Part 5 - Database and Migrations,##,## 81. Python Django T  utor ial: Full-Featured Web App Part 5 - Database and Migrations
+1,82,Python Django T  utor ial: Full-Featured Web App Part 6 - User Registration,,,,,,,,,*,* 82. Python Django T  utor ial: Full-Featured Web App Part 6 - User Registration,##,## 82. Python Django T  utor ial: Full-Featured Web App Part 6 - User Registration
+1,83,Python Django T  utor ial: Full-Featured Web App Part 7 - Login and Logout System,,,,,,,,,*,* 83. Python Django T  utor ial: Full-Featured Web App Part 7 - Login and Logout System,##,## 83. Python Django T  utor ial: Full-Featured Web App Part 7 - Login and Logout System
+1,84,Python Django T  utor ial: Full-Featured Web App Part 8 - User Profile and Picture,,,,,,,,,*,* 84. Python Django T  utor ial: Full-Featured Web App Part 8 - User Profile and Picture,##,## 84. Python Django T  utor ial: Full-Featured Web App Part 8 - User Profile and Picture
+1,85,Python Django T  utor ial: Full-Featured Web App Part 9 - Update User Profile,,,,,,,,,*,* 85. Python Django T  utor ial: Full-Featured Web App Part 9 - Update User Profile,##,## 85. Python Django T  utor ial: Full-Featured Web App Part 9 - Update User Profile
+1,86,"Python Django T  utor ial: Full-Featured Web App Part 10 - Create, Update, and Delete Posts",,,,,,,,,*,"* 86. Python Django T  utor ial: Full-Featured Web App Part 10 - Create, Update, and Delete Posts",##,"## 86. Python Django T  utor ial: Full-Featured Web App Part 10 - Create, Update, and Delete Posts"
+1,87,Python Django T  utor ial: Full-Featured Web App Part 11 - Pagination,,,,,,,,,*,* 87. Python Django T  utor ial: Full-Featured Web App Part 11 - Pagination,##,## 87. Python Django T  utor ial: Full-Featured Web App Part 11 - Pagination
+1,88,Python Django T  utor ial: Full-Featured Web App Part 12 - Email and Password Reset,,,,,,,,,*,* 88. Python Django T  utor ial: Full-Featured Web App Part 12 - Email and Password Reset,##,## 88. Python Django T  utor ial: Full-Featured Web App Part 12 - Email and Password Reset
+1,89,Python Django T  utor ial: Deploying Your Application (Option #1) - Deploy to a Linux Server,,,,,,,,,*,* 89. Python Django T  utor ial: Deploying Your Application (Option #1) - Deploy to a Linux Server,##,## 89. Python Django T  utor ial: Deploying Your Application (Option #1) - Deploy to a Linux Server
+1,95,Python Django T  utor ial: How to Use a Custom Domain Name for Our Application,,,,,,,,,*,* 95. Python Django T  utor ial: How to Use a Custom Domain Name for Our Application,##,## 95. Python Django T  utor ial: How to Use a Custom Domain Name for Our Application
+1,97,Python Django T  utor ial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt,,,,,,,,,*,* 97. Python Django T  utor ial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt,##,## 97. Python Django T  utor ial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt
+1,98,Python Django T  utor ial: Full-Featured Web App Part 13 - Using AWS S3 for File Uploads,,,,,,,,,*,* 98. Python Django T  utor ial: Full-Featured Web App Part 13 - Using AWS S3 for File Uploads,##,## 98. Python Django T  utor ial: Full-Featured Web App Part 13 - Using AWS S3 for File Uploads
+1,99,Python Django T  utor ial: Deploying Your Application (Option #2) - Deploy using Heroku,,,,,,,,,*,* 99. Python Django T  utor ial: Deploying Your Application (Option #2) - Deploy using Heroku,##,## 99. Python Django T  utor ial: Deploying Your Application (Option #2) - Deploy using Heroku
+,,,,,,,,,,,,,,
+0,91,Python Coding P  robl em: Creating Your Own Iterators,,,,,,,,,*,* 91. Python Coding P  robl em: Creating Your Own Iterators,##,## 91. Python Coding P  robl em: Creating Your Own Iterators
+0,100,"Python Requests  Tut orial: Request Web Pages, Download Images, POST Data, Read JSON, and More",,,,,,,,,*,"* 100. Python Requests  Tut orial: Request Web Pages, Download Images, POST Data, Read JSON, and More",##,"## 100. Python Requests  Tut orial: Request Web Pages, Download Images, POST Data, Read JSON, and More"
+0,103,"How to Send Ema  ils Using Python - Plain Text, Adding Attachments, HTML Emails, and More",,,,,,,,,*,"* 103. How to Send Ema  ils Using Python - Plain Text, Adding Attachments, HTML Emails, and More",##,"## 103. How to Send Ema  ils Using Python - Plain Text, Adding Attachments, HTML Emails, and More"
+0,104,10 Python Tips  and Tricks For Writing Better Code,,,,,,,,,*,* 104. 10 Python Tips  and Tricks For Writing Better Code,##,## 104. 10 Python Tips  and Tricks For Writing Better Code
+0,107,How to Write Py  thon Scripts to Analyze JSON APIs and Sort Results,,,,,,,,,*,* 107. How to Write Py  thon Scripts to Analyze JSON APIs and Sort Results,##,## 107. How to Write Py  thon Scripts to Analyze JSON APIs and Sort Results
+0,108,5 Common Python  Mis takes and How to Fix Them,,,,,,,,,*,* 108. 5 Common Python  Mis takes and How to Fix Them,##,## 108. 5 Common Python  Mis takes and How to Fix Them
+0,110,Visual Studio C  ode (Mac) - Setting up a Python Development Environment and Complete Overview,,,,,,,,,*,* 110. Visual Studio C  ode (Mac) - Setting up a Python Development Environment and Complete Overview,##,## 110. Visual Studio C  ode (Mac) - Setting up a Python Development Environment and Complete Overview
+0,111,Visual Studio C  ode (Windows) - Setting up a Python Development Environment and Complete Overview,,,,,,,,,*,* 111. Visual Studio C  ode (Windows) - Setting up a Python Development Environment and Complete Overview,##,## 111. Visual Studio C  ode (Windows) - Setting up a Python Development Environment and Complete Overview
+0,124,Python Threadin  g Tu torial: Run Code Concurrently Using the Threading Module,,,,,,,,,*,* 124. Python Threadin  g Tu torial: Run Code Concurrently Using the Threading Module,##,## 124. Python Threadin  g Tu torial: Run Code Concurrently Using the Threading Module
+0,125,Python Multipro  cess ing Tutorial: Run Code in Parallel Using the Multiprocessing Module,,,,,,,,,*,* 125. Python Multipro  cess ing Tutorial: Run Code in Parallel Using the Multiprocessing Module,##,## 125. Python Multipro  cess ing Tutorial: Run Code in Parallel Using the Multiprocessing Module
+0,126,Python Data Sci  ence Tutorial: Analyzing the 2019 Stack Overflow Developer Survey,,,,,,,,,*,* 126. Python Data Sci  ence Tutorial: Analyzing the 2019 Stack Overflow Developer Survey,##,## 126. Python Data Sci  ence Tutorial: Analyzing the 2019 Stack Overflow Developer Survey
+0,145,How to Use Chat  GPT as a Powerful Tool for Programming,,,,,,,,,*,* 145. How to Use Chat  GPT as a Powerful Tool for Programming,##,## 145. How to Use Chat  GPT as a Powerful Tool for Programming
+0,147,Automating My B  ill Payments with Python and Selenium,,,,,,,,,*,* 147. Automating My B  ill Payments with Python and Selenium,##,## 147. Automating My B  ill Payments with Python and Selenium
+0,148,"Python Tkinter  Tuto rial (Part 1): Getting Started, Elements, Layouts, and Events",,,,,,,,,*,"* 148. Python Tkinter  Tuto rial (Part 1): Getting Started, Elements, Layouts, and Events",##,"## 148. Python Tkinter  Tuto rial (Part 1): Getting Started, Elements, Layouts, and Events"
+,,,,,,,,,,,,,,
+1,112,Matplotlib Tuto  rial (Part 1): Creating and Customizing Our First Plots,,,,,,,,,*,* 112. Matplotlib Tuto  rial (Part 1): Creating and Customizing Our First Plots,##,## 112. Matplotlib Tuto  rial (Part 1): Creating and Customizing Our First Plots
+1,113,Matplotlib Tuto  rial (Part 2): Bar Charts and Analyzing Data from CSVs,,,,,,,,,*,* 113. Matplotlib Tuto  rial (Part 2): Bar Charts and Analyzing Data from CSVs,##,## 113. Matplotlib Tuto  rial (Part 2): Bar Charts and Analyzing Data from CSVs
+1,114,Matplotlib Tuto  rial (Part 3): Pie Charts,,,,,,,,,*,* 114. Matplotlib Tuto  rial (Part 3): Pie Charts,##,## 114. Matplotlib Tuto  rial (Part 3): Pie Charts
+1,115,Matplotlib Tuto  rial (Part 4): Stack Plots,,,,,,,,,*,* 115. Matplotlib Tuto  rial (Part 4): Stack Plots,##,## 115. Matplotlib Tuto  rial (Part 4): Stack Plots
+1,116,Matplotlib Tuto  rial (Part 5): Filling Area on Line Plots,,,,,,,,,*,* 116. Matplotlib Tuto  rial (Part 5): Filling Area on Line Plots,##,## 116. Matplotlib Tuto  rial (Part 5): Filling Area on Line Plots
+1,117,Matplotlib Tuto  rial (Part 6): Histograms,,,,,,,,,*,* 117. Matplotlib Tuto  rial (Part 6): Histograms,##,## 117. Matplotlib Tuto  rial (Part 6): Histograms
+1,118,Matplotlib Tuto  rial (Part 7): Scatter Plots,,,,,,,,,*,* 118. Matplotlib Tuto  rial (Part 7): Scatter Plots,##,## 118. Matplotlib Tuto  rial (Part 7): Scatter Plots
+1,119,Matplotlib Tuto  rial (Part 8): Plotting Time Series Data,,,,,,,,,*,* 119. Matplotlib Tuto  rial (Part 8): Plotting Time Series Data,##,## 119. Matplotlib Tuto  rial (Part 8): Plotting Time Series Data
+1,120,Matplotlib Tuto  rial (Part 9): Plotting Live Data in Real-Time,,,,,,,,,*,* 120. Matplotlib Tuto  rial (Part 9): Plotting Live Data in Real-Time,##,## 120. Matplotlib Tuto  rial (Part 9): Plotting Live Data in Real-Time
+1,121,Matplotlib Tuto  rial (Part 10): Subplots,,,,,,,,,*,* 121. Matplotlib Tuto  rial (Part 10): Subplots,##,## 121. Matplotlib Tuto  rial (Part 10): Subplots
+,,,,,,,,,,,,,,
+1,128,Python Pandas T  utor ial (Part 1): Getting Started with Data Analysis - Installation and Loading Data,,,,,,,,,*,* 128. Python Pandas T  utor ial (Part 1): Getting Started with Data Analysis - Installation and Loading Data,##,## 128. Python Pandas T  utor ial (Part 1): Getting Started with Data Analysis - Installation and Loading Data
+1,129,Python Pandas T  utor ial (Part 2): DataFrame and Series Basics - Selecting Rows and Columns,,,,,,,,,*,* 129. Python Pandas T  utor ial (Part 2): DataFrame and Series Basics - Selecting Rows and Columns,##,## 129. Python Pandas T  utor ial (Part 2): DataFrame and Series Basics - Selecting Rows and Columns
+1,130,"Python Pandas T  utor ial (Part 3): Indexes - How to Set, Reset, and Use Indexes",,,,,,,,,*,"* 130. Python Pandas T  utor ial (Part 3): Indexes - How to Set, Reset, and Use Indexes",##,"## 130. Python Pandas T  utor ial (Part 3): Indexes - How to Set, Reset, and Use Indexes"
+1,131,Python Pandas T  utor ial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns,,,,,,,,,*,* 131. Python Pandas T  utor ial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns,##,## 131. Python Pandas T  utor ial (Part 4): Filtering - Using Conditionals to Filter Rows and Columns
+1,132,Python Pandas T  utor ial (Part 5): Updating Rows and Columns - Modifying Data Within DataFrames,,,,,,,,,*,* 132. Python Pandas T  utor ial (Part 5): Updating Rows and Columns - Modifying Data Within DataFrames,##,## 132. Python Pandas T  utor ial (Part 5): Updating Rows and Columns - Modifying Data Within DataFrames
+1,133,Python Pandas T  utor ial (Part 6): Add/Remove Rows and Columns From DataFrames,,,,,,,,,*,* 133. Python Pandas T  utor ial (Part 6): Add/Remove Rows and Columns From DataFrames,##,## 133. Python Pandas T  utor ial (Part 6): Add/Remove Rows and Columns From DataFrames
+1,134,Python Pandas T  utor ial (Part 7): Sorting Data,,,,,,,,,*,* 134. Python Pandas T  utor ial (Part 7): Sorting Data,##,## 134. Python Pandas T  utor ial (Part 7): Sorting Data
+1,135,Python Pandas T  utor ial (Part 8): Grouping and Aggregating - Analyzing and Exploring Your Data,,,,,,,,,*,* 135. Python Pandas T  utor ial (Part 8): Grouping and Aggregating - Analyzing and Exploring Your Data,##,## 135. Python Pandas T  utor ial (Part 8): Grouping and Aggregating - Analyzing and Exploring Your Data
+1,136,Python Pandas T  utor ial (Part 9): Cleaning Data - Casting Datatypes and Handling Missing Values,,,,,,,,,*,* 136. Python Pandas T  utor ial (Part 9): Cleaning Data - Casting Datatypes and Handling Missing Values,##,## 136. Python Pandas T  utor ial (Part 9): Cleaning Data - Casting Datatypes and Handling Missing Values
+1,137,Python Pandas T  utor ial (Part 10): Working with Dates and Time Series Data,,,,,,,,,*,* 137. Python Pandas T  utor ial (Part 10): Working with Dates and Time Series Data,##,## 137. Python Pandas T  utor ial (Part 10): Working with Dates and Time Series Data
+1,138,"Python Pandas T  utor ial (Part 11): Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc",,,,,,,,,*,"* 138. Python Pandas T  utor ial (Part 11): Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc",##,"## 138. Python Pandas T  utor ial (Part 11): Reading/Writing Data to Different Sources - Excel, JSON, SQL, Etc"
+,,,,,,,,,,,,,,
+1,140,Python YouTube  API Tutorial: Getting Started - Creating an API Key and Querying the API,,,,,,,,,,,,
+1,141,Python YouTube  API Tutorial: Calculating the Duration of a Playlist,,,,,,,,,,,,
+1,142,Python YouTube  API Tutorial: Sort a Playlist by Most Popular Videos,,,,,,,,,,,,
+1,143,Python YouTube  API Tutorial: Using OAuth to Access User Accounts,,,,,,,,,,,,
